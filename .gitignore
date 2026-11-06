@@ -1,0 +1,34 @@
+# Data
+data/
+*.pgn
+*.pgn.zst
+*.pgn.bz2
+*.csv
+*.parquet
+*.zst
+
+# outputs and logs
+spark-warehouse/
+metastore_db/
+derby.log
+*.log
+logs/
+output/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Secrets and local config
+.env
+*.pem
+*.key
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/g
