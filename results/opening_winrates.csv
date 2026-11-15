@@ -1,0 +1,76 @@
+opening_family,elo_bracket,games,white_pct,draw_pct,black_pct
+Sicilian Defense,<1000,18224,51.75,3.23,45.02
+Sicilian Defense,1000-1399,6917,48.2,4.26,47.54
+Sicilian Defense,1400-1799,5897,52.09,11.03,36.88
+Sicilian Defense,1800-2199,6340,51.31,3.29,45.4
+Sicilian Defense,2200+,1939,47.97,7.55,44.48
+French Defense,<1000,46162,51.05,9.44,39.51
+French Defense,1000-1399,38818,50.9,4.98,44.12
+French Defense,1400-1799,49929,48.5,10.82,40.68
+French Defense,1800-2199,22498,53.25,9.28,37.47
+French Defense,2200+,22259,48.5,4.94,46.56
+Italian Game,<1000,23726,46.92,6.42,46.66
+Italian Game,1000-1399,3047,53.63,8.43,37.94
+Italian Game,1400-1799,25007,52.57,7.83,39.6
+Italian Game,1800-2199,41398,46.71,5.64,47.65
+Italian Game,2200+,38037,51.57,10.76,37.67
+Scandinavian Defense,<1000,43536,47.73,3.63,48.64
+Scandinavian Defense,1000-1399,5429,48.05,5.6,46.35
+Scandinavian Defense,1400-1799,25111,53.7,10.8,35.5
+Scandinavian Defense,1800-2199,24109,48.5,8.72,42.78
+Scandinavian Defense,2200+,44120,47.46,6.2,46.34
+Queen's Gambit Declined,<1000,42669,48.4,11.43,40.17
+Queen's Gambit Declined,1000-1399,35205,46.64,8.71,44.65
+Queen's Gambit Declined,1400-1799,25067,52.56,4.47,42.97
+Queen's Gambit Declined,1800-2199,45299,48.43,11.33,40.24
+Queen's Gambit Declined,2200+,3865,51.01,9.16,39.83
+King's Indian Defense,<1000,20873,48.06,3.29,48.65
+King's Indian Defense,1000-1399,37370,49.61,3.6,46.79
+King's Indian Defense,1400-1799,43154,53.89,5.83,40.28
+King's Indian Defense,1800-2199,42329,50.49,10.96,38.55
+King's Indian Defense,2200+,16362,50.13,5.38,44.49
+Caro-Kann Defense,<1000,49156,52.7,7.85,39.45
+Caro-Kann Defense,1000-1399,26375,51.26,11.08,37.66
+Caro-Kann Defense,1400-1799,9265,49.26,11.98,38.76
+Caro-Kann Defense,1800-2199,3287,50.59,3.82,45.59
+Caro-Kann Defense,2200+,10684,53.75,4.38,41.87
+English Opening,<1000,4363,53.13,6.8,40.07
+English Opening,1000-1399,30874,49.46,8.36,42.18
+English Opening,1400-1799,952,50.76,11.74,37.5
+English Opening,1800-2199,35390,52.12,4.03,43.85
+English Opening,2200+,22493,52.76,9.92,37.32
+Ruy Lopez,<1000,29935,47.0,6.91,46.09
+Ruy Lopez,1000-1399,47364,46.03,9.5,44.47
+Ruy Lopez,1400-1799,11908,48.37,7.51,44.12
+Ruy Lopez,1800-2199,41179,50.57,3.96,45.47
+Ruy Lopez,2200+,40109,48.69,8.75,42.56
+Pirc Defense,<1000,10787,47.79,6.37,45.84
+Pirc Defense,1000-1399,34957,50.85,10.01,39.14
+Pirc Defense,1400-1799,32221,54.27,8.39,37.34
+Pirc Defense,1800-2199,20353,46.18,11.36,42.46
+Pirc Defense,2200+,37382,48.16,5.17,46.67
+Dutch Defense,<1000,32049,54.52,3.77,41.71
+Dutch Defense,1000-1399,35111,53.34,11.8,34.86
+Dutch Defense,1400-1799,31348,52.89,4.16,42.95
+Dutch Defense,1800-2199,34781,54.52,4.49,40.99
+Dutch Defense,2200+,14080,53.85,6.81,39.34
+Philidor Defense,<1000,45411,54.36,9.8,35.84
+Philidor Defense,1000-1399,44219,47.81,5.81,46.38
+Philidor Defense,1400-1799,34119,51.85,6.94,41.21
+Philidor Defense,1800-2199,4396,50.06,5.23,44.71
+Philidor Defense,2200+,15280,49.04,8.29,42.67
+Alekhine Defense,<1000,46589,51.3,3.06,45.64
+Alekhine Defense,1000-1399,2258,51.68,5.06,43.26
+Alekhine Defense,1400-1799,15797,53.74,3.64,42.62
+Alekhine Defense,1800-2199,35539,48.51,7.37,44.12
+Alekhine Defense,2200+,37623,47.19,11.42,41.39
+King's Gambit Accepted,<1000,31196,51.19,5.19,43.62
+King's Gambit Accepted,1000-1399,6552,53.27,4.71,42.02
+King's Gambit Accepted,1400-1799,27141,51.93,6.19,41.88
+King's Gambit Accepted,1800-2199,44329,50.2,9.56,40.24
+King's Gambit Accepted,2200+,4172,51.88,8.82,39.3
+Scotch Game,<1000,7361,49.62,6.05,44.33
+Scotch Game,1000-1399,29600,48.24,4.71,47.05
+Scotch Game,1400-1799,30518,47.26,4.65,48.09
+Scotch Game,1800-2199,29241,48.25,11.31,40.44
+Scotch Game,2200+,6616,53.27,10.7,36.03

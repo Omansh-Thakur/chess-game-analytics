@@ -1,0 +1,7 @@
+game_id,date,time,speed,time_control,white_elo,black_elo,result,termination,eco,opening,plies,has_clock,has_eval
+abc12345,2016.01.01,00:05:30,Blitz,300+0,1523,1487,1-0,Normal,B01,Scandinavian Defense,45,1,1
+def67890,2016.01.01,00:12:15,Bullet,60+0,1200,1350,0-1,Time forfeit,C20,King's Pawn Game,38,1,0
+ghi11111,2016.01.01,00:30:00,Rapid,600+5,1800,1756,1/2-1/2,Normal,A45,Indian Defense,62,1,1
+jkl22222,2016.01.01,01:00:00,Blitz,180+2,1650,1620,1-0,Normal,B20,Sicilian Defense,54,1,1
+mno33333,2016.01.01,01:15:00,Classical,1800+0,2100,2050,0-1,Normal,D35,Queen's Gambit Declined,78,0,0
+
